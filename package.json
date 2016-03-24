@@ -1,0 +1,28 @@
+{
+  "name": "permalinkjs",
+  "version": "0.0.0",
+  "description": "Easy creation of permalinks on your html page!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^13.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnjailamba/PermalinkJS.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "permalinks",
+    "permalink",
+    "permalinkjs",
+    "permanent",
+    "links"
+  ],
+  "author": "Rnjai Lamba <rnjailamba12@gmail.com>",
+  "license": "BSD-2-Clause"
+}
